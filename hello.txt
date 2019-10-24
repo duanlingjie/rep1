@@ -2,9 +2,6 @@
 为了测试第一个远程仓库
 为了测试第二个远程仓库
 哈哈哈
-zzzz
-xxxxx
-vvvvv
 aaaaa
 bbbb
 ccccc
